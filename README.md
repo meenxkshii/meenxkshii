@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]  
+# Hi there! 👋 I'm Meenakshi 
 
 ## 🚀 About Me
 I'm currently working at  **CDAC- CHENNAI**, diving deep into **Java, React, and Spring Boot**. My interests lie in **full-stack development** and **automation testing**, and I'm constantly exploring new technologies to expand my skill set.  
