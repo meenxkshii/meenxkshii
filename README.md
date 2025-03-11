@@ -8,10 +8,6 @@ I'm currently working at  **CDAC- CHENNAI**, diving deep into **Java, React, and
 - 🌐 **Company Website**: Building a website from scratch for **AR Tools and Services**, ensuring it's resume-worthy.
 - 📚 **Learning React**: Mastering React from scratch to explain concepts effectively to my team head.
 
-## 🏆 Recent Challenges
-- 🔹 Participated in **Bajaj Health Automation and JAVA Challenge (Qualifier 1)**, focusing on **API testing** for user account creation.
-- 🔹 Preparing for my **C++ lab exam**, working on OOP concepts and operator overloading.
-
 ## 🛠 Tech Stack
 - **Languages:** C++, Java, JavaScript
 - **Frontend:** React, Tailwind CSS
